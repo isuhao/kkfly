@@ -1,0 +1,7 @@
+.dep/
+obj/
+*.hex
+*.lss
+*.elf
+*.swp
+*.sym
